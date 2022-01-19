@@ -1,2 +1,2 @@
 # NucleusDAO
-Issue Synthetic Assets on any chain!
+Issue 1:1 price pegged Wrapped Assets on any chain!
